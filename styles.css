@@ -29,7 +29,7 @@ background-image: url(./images/bg-image.jpg);
 
 .parent-box{ /*this is flex container row direction*/
     display:flex;
-    
+    flex:auto;
     height:600px;
     flex-direction: row;
 
